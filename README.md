@@ -2,4 +2,4 @@
 
 # Minified Class Diagram
 
-![Class Diagram](uml/class-diagram/minified.png)
+![Class Diagram](https://github.com/e-Luminous/uml/blob/master/class-diagram/minified.png)
